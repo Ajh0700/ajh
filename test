@@ -1,0 +1,12 @@
+main {
+  int x;
+  int y;
+  
+  sum=x+y;
+  system.out.println("la somme est : ", x+y);
+  
+
+
+
+
+}
